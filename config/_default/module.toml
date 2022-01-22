@@ -6,6 +6,10 @@ min = "0.84.4"
 source = 'layouts'
 target = 'layouts'
 
+[[mounts]]
+source = 'content'
+target = 'content'
+
 [[imports]]
 disable = false
 ignoreConfig = true
