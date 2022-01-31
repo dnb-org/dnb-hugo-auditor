@@ -7,6 +7,10 @@ source = 'layouts'
 target = 'layouts'
 
 [[mounts]]
+source = 'data'
+target = 'data'
+
+[[mounts]]
 source = 'content'
 target = 'content'
 
