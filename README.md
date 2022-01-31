@@ -22,3 +22,13 @@ then add somewhere in the foooter of your base template:
 ```gotemplate
 {{- partialCached "ct/ct.html" . -}}
 ```
+
+## Add links.json with a list of all created URLs
+
+Add output type to `outputs` section in your config:
+
+```toml
+home = [..., "dnblinklist" ]
+```
+
+After creation of the site there is a JSON file available at `/links.json` containing all created links.
