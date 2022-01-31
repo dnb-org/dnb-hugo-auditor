@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/dnb-org/dnb-hugo-sitemap/compare/v0.0.3...v0.0.4) (2022-01-31)
+
+
+### Build System
+
+* **fix:** create missing build.json ([923f264](https://github.com/dnb-org/dnb-hugo-sitemap/commit/923f264eb3c80def8ab1bb097545cbdf1b2a944e))
+
+
+### Chore
+
+* **config:** fix data directory mount ([5d5fc14](https://github.com/dnb-org/dnb-hugo-sitemap/commit/5d5fc14eba62ff53ef7502e3115bf7450cf76f1e))
+
 ### [0.0.3](https://github.com/dnb-org/dnb-hugo-sitemap/compare/v0.0.2...v0.0.3) (2022-01-31)
 
 
