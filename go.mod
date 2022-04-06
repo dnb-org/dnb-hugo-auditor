@@ -1,4 +1,4 @@
-module github.com/dnb-org/dnb-hugo-auditor
+module github.com/davidsneighbour/hugo-auditor
 
 go 1.17
 
