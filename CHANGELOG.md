@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/dnb-org/dnb-hugo-sitemap/compare/v0.0.4...v0.0.5) (2022-04-06)
+
+
+### Chore
+
+* **deps:** update dependencies ([f47941c](https://github.com/dnb-org/dnb-hugo-sitemap/commit/f47941c5625b5b0f3778437303ff6e966a150f82))
+* update go.mod ([08be585](https://github.com/dnb-org/dnb-hugo-sitemap/commit/08be585091d7dfa7efb59e06a053b373d83a57ef))
+
 ### [0.0.4](https://github.com/dnb-org/dnb-hugo-sitemap/compare/v0.0.3...v0.0.4) (2022-01-31)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "dnb-hugo-auditor",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "description": "SEO, technical audit and performance checks for Hugo",
   "author": {
