@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.0.5...v0.1.0) (2022-04-07)
+
+
+### Chore
+
+* updates and repo-renames ([8d4151d](https://github.com/davidsneighbour/hugo-sitemap/commit/8d4151d7414687c9ccc9bee32898371570b720e7))
+
 ### [0.0.5](https://github.com/dnb-org/dnb-hugo-sitemap/compare/v0.0.4...v0.0.5) (2022-04-06)
 
 
