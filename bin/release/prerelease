@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # declare path to this script
 SCRIPTPATH="$(
@@ -10,10 +10,11 @@ SCRIPTPATH="$(
 # TODO read replacement configuration into array
 
 # remove replacement scripts
-if test -f "$SCRIPTPATH"/replacements; then
+if test -f "${SCRIPTPATH}"/replacements; then
+  # shellcheck disable=SC2039
   while read -ra __; do
     go mod edit -dropreplace "${__[0]}"
-  done <"$SCRIPTPATH"/replacements
+  done <"${SCRIPTPATH}"/replacements
 fi
 
 hugo mod get -u ./...
@@ -22,8 +23,9 @@ hugo mod tidy
 git add go.mod
 git add go.sum
 
-if test -f "$SCRIPTPATH"/replacements; then
+if test -f "${SCRIPTPATH}"/replacements; then
+  # shellcheck disable=SC2039
   while read -ra __; do
     go mod edit -replace "${__[0]}"="${__[1]}"
-  done <"$SCRIPTPATH"/replacements
+  done <"${SCRIPTPATH}"/replacements
 fi

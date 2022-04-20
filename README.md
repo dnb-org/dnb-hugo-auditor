@@ -1,11 +1,13 @@
-![repoimage](https://repository-images.githubusercontent.com/432989004/a3972d63-9610-4f0e-818f-24a0b5a401e6)<!--- CARD BEGIN --->
+<!--- CARD BEGIN --->
 
-![DNB-Hugo/HEAD](.github/github-card-dark.png#gh-dark-mode-only)
-![DNB-Hugo/HEAD](.github/github-card-light.png#gh-light-mode-only)
+![DNB-Hugo/AUDITOR](.github/github-card-dark.png#gh-dark-mode-only)
+![DNB-Hugo/AUDITOR](.github/github-card-light.png#gh-light-mode-only)
 
 <!--- CARD END --->
 
-# David's Neighbour GoHugo Component / Auditor
+# GoHugo Component / Auditor
+
+This module is a GoHugo component that adds several auditing tools to your development website. It is work in progress, check back when v1 is released for a fixed feature set.
 
 ## Headers CT
 
