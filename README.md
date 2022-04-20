@@ -5,7 +5,7 @@
 
 <!--- CARD END --->
 
-# DNB GoHugo Component / Auditor
+# David's Neighbour GoHugo Component / Auditor
 
 ## Headers CT
 
