@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.1...v0.1.2) (2022-04-20)
+
+
+### Build System
+
+* update Github organization name & use newer NPM package dependencies ([#37](https://github.com/davidsneighbour/hugo-sitemap/issues/37)) ([dcafdb3](https://github.com/davidsneighbour/hugo-sitemap/commit/dcafdb363cccabc6f4b8e57ac4bd694a8912e788))
+
+
+### Chore
+
+* update docs and release script ([ad8ccc0](https://github.com/davidsneighbour/hugo-sitemap/commit/ad8ccc045eb52791ed0a693cc74fa360004bed93))
+
 ### [0.1.1](https://github.com/davidsneighbour/hugo-auditor/compare/v0.1.0...v0.1.1) (2022-04-11)
 
 
