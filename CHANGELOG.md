@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.3...v0.1.4) (2022-05-06)
+
+
+### Theme
+
+* **fix:** proper audit frontmatter evaluation ([cad18c1](https://github.com/davidsneighbour/hugo-sitemap/commit/cad18c168f6422adfbedfebf63aa2f45bb494fc7))
+
 ### [0.1.3](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.2...v0.1.3) (2022-05-06)
 
 
