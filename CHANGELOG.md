@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.2...v0.1.3) (2022-05-06)
+
+
+### Features
+
+* add audit frontmatter parameter ([b50dd1c](https://github.com/davidsneighbour/hugo-sitemap/commit/b50dd1cfc249f39806a0d029525bb983ea7e5933))
+
 ### [0.1.2](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.1...v0.1.2) (2022-04-20)
 
 
