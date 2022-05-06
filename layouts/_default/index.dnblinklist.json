@@ -1,5 +1,7 @@
 {{- $collection := slice -}}
 {{- range site.Pages -}}
+{{- if nq .Params.audit false -}}
 {{- $collection = $collection | append .Permalink -}}
+{{- end -}}
 {{- end -}}
 {{- dict "links" $collection | jsonify -}}
