@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.6](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.5...v0.1.6) (2022-07-06)
+
+
+### Build System
+
+* **fix:** proper postrelease hook ([0a5af97](https://github.com/davidsneighbour/hugo-sitemap/commit/0a5af972f04ebca216e1c42038c6d8b1e36f3383))
+
 ### [0.1.5](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.4...v0.1.5) (2022-07-06)
 
 
