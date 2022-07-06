@@ -1,5 +1,16 @@
 #!/bin/bash
 
+REQUIRED_TOOLS=(
+  git
+)
+
+for TOOL in "${REQUIRED_TOOLS[@]}"; do
+  if ! command -v "${TOOL}" >/dev/null; then
+    echo "${TOOL} is required... "
+    exit 1
+  fi
+done
+
 # declare path to this script
 SCRIPTPATH="$(
   cd "$(dirname "$0")" >/dev/null 2>&1 || exit
