@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.5...v0.1.7) (2022-07-06)
+
+
+### Build System
+
+* **fix:** add checks to prerelease hook ([28efadd](https://github.com/davidsneighbour/hugo-sitemap/commit/28efadd0efcf67784b483db25e0e55294402038f))
+* **fix:** proper postrelease hook ([0a5af97](https://github.com/davidsneighbour/hugo-sitemap/commit/0a5af972f04ebca216e1c42038c6d8b1e36f3383))
+
+
+### Documentation
+
+* update README.md ([f041cee](https://github.com/davidsneighbour/hugo-sitemap/commit/f041cee0849a731004e1d5f5e728b0ec152d7999))
+
+
+### Chore
+
+* **config:** update go to 1.18 ([abbe264](https://github.com/davidsneighbour/hugo-sitemap/commit/abbe264090b9392d1f3579e38a647a0fd30db894))
+* **release:** v0.1.6 ([bc21295](https://github.com/davidsneighbour/hugo-sitemap/commit/bc212953e88b10b5e8c7bb6ea584d8895b1f2c6b))
+* some more cleanup ([7c5bd34](https://github.com/davidsneighbour/hugo-sitemap/commit/7c5bd345257a6ac41929ef89e4687eaaa6590b20))
+
 ### [0.1.6](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.5...v0.1.6) (2022-07-06)
 
 
