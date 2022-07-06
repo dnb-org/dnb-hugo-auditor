@@ -3,16 +3,24 @@ extended = true
 min = "0.84.4"
 
 [[mounts]]
-source = 'layouts'
-target = 'layouts'
+source = 'assets'
+target = 'assets'
+
+[[mounts]]
+source = 'content'
+target = 'content'
 
 [[mounts]]
 source = 'data'
 target = 'data'
 
 [[mounts]]
-source = 'content'
-target = 'content'
+source = 'layouts'
+target = 'layouts'
+
+[[mounts]]
+source = 'static'
+target = 'static'
 
 [[imports]]
 disable = false
