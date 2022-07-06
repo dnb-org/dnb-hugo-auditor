@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.4...v0.1.5) (2022-07-06)
+
+
+### Chore
+
+* **config:** set dependabot to monthly ([5ee40e1](https://github.com/davidsneighbour/hugo-sitemap/commit/5ee40e1390f1413329a48db77d6139c7c428f996))
+* **deps:** update dependencies ([8037967](https://github.com/davidsneighbour/hugo-sitemap/commit/8037967ab421bfd59be116fb0c79b96f6d6991cc))
+* **deps:** update dependencies ([e175add](https://github.com/davidsneighbour/hugo-sitemap/commit/e175addd8b8734a587e271a9b7cda94be289d8d5))
+* **deps:** update dependencies ([5c21152](https://github.com/davidsneighbour/hugo-sitemap/commit/5c2115266dd0601b9e27dac01f3679082c23ad6d))
+
 ### [0.1.4](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.3...v0.1.4) (2022-05-06)
 
 
