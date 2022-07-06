@@ -5,6 +5,6 @@ authors:
     given-names: "Patrick"
     orcid: "https://orcid.org/0000-0001-6250-2135"
 title: "Hugo Components / Auditor"
-version: 1.4.0
-date-released: 2021-13-03
+version: 0.1.6
+date-released: 2022-07-06
 url: "https://github.com/davidsneighbour/hugo-auditor"
