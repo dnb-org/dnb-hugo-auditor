@@ -2,7 +2,9 @@
 title: Posts sorted by last changed ascending
 comments: false
 robotsdisallow: true
-lastmod: 2022-05-25T19:57:23+07:00
+lastmod: 2022-07-19T17:36:21+07:00
+_build:
+  list: never
 ---
 
 {{< index sortby="last-changed" sortdir="asc" >}}
