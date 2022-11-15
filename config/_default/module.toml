@@ -2,9 +2,9 @@
 extended = true
 min = "0.84.4"
 
-[[mounts]]
-source = 'content'
-target = 'content'
+# [[mounts]]
+# source = 'content'
+# target = 'content'
 
 [[mounts]]
 source = 'data'
