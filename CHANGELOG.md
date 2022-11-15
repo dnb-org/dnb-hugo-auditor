@@ -2,6 +2,38 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.9](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.5...v0.1.9) (2022-11-15)
+
+
+### Bug Fixes
+
+* better file extension for json template in vscode ([e8d8c40](https://github.com/davidsneighbour/hugo-sitemap/commit/e8d8c400fc8bd780a0350338f794a98a0f931201))
+* remove debugging ([514bf2e](https://github.com/davidsneighbour/hugo-sitemap/commit/514bf2e07fa3b1b06492742c794c75328bbf6498))
+* remove index pages from list collections ([e5bf8dd](https://github.com/davidsneighbour/hugo-sitemap/commit/e5bf8dd6f0a5b347c67db17fe8719e5619eb2633))
+* remove unfinished layout ([91ebe59](https://github.com/davidsneighbour/hugo-sitemap/commit/91ebe591840bfbcbc993ebdeca2e44e31bdab672))
+
+
+### Documentation
+
+* update README.md ([f041cee](https://github.com/davidsneighbour/hugo-sitemap/commit/f041cee0849a731004e1d5f5e728b0ec152d7999))
+
+
+### Build System
+
+* **deps-dev:** bump @davidsneighbour/tools from 4.0.9 to 4.0.10 ([#50](https://github.com/davidsneighbour/hugo-sitemap/issues/50)) ([3fff88f](https://github.com/davidsneighbour/hugo-sitemap/commit/3fff88f15e286c2982f1cea8ecd5a2e4cf026672))
+* **fix:** add checks to prerelease hook ([28efadd](https://github.com/davidsneighbour/hugo-sitemap/commit/28efadd0efcf67784b483db25e0e55294402038f))
+* **fix:** proper postrelease hook ([0a5af97](https://github.com/davidsneighbour/hugo-sitemap/commit/0a5af972f04ebca216e1c42038c6d8b1e36f3383))
+
+
+### Chore
+
+* **config:** update go to 1.18 ([abbe264](https://github.com/davidsneighbour/hugo-sitemap/commit/abbe264090b9392d1f3579e38a647a0fd30db894))
+* recent changes ([60ed38c](https://github.com/davidsneighbour/hugo-sitemap/commit/60ed38ca0bb8c0e90ca563fdd832f45ce7588ca6))
+* **release:** v0.1.6 ([bc21295](https://github.com/davidsneighbour/hugo-sitemap/commit/bc212953e88b10b5e8c7bb6ea584d8895b1f2c6b))
+* **release:** v0.1.7 ([6b15ea3](https://github.com/davidsneighbour/hugo-sitemap/commit/6b15ea383ebb895f5ec32204c508c47c8a85250e))
+* **release:** v0.1.8 ([7c72af9](https://github.com/davidsneighbour/hugo-sitemap/commit/7c72af9e8dfcb89690e3df821f3183fd70a1eac7))
+* some more cleanup ([7c5bd34](https://github.com/davidsneighbour/hugo-sitemap/commit/7c5bd345257a6ac41929ef89e4687eaaa6590b20))
+
 ### [0.1.8](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.1.5...v0.1.8) (2022-07-24)
 
 
